@@ -13,5 +13,8 @@ Or:
 ![image](https://user-images.githubusercontent.com/20460747/161037440-fab7f98a-0ba8-4215-8c0c-cf062d9c71a3.png)
 
 
+https://github.com/Electrics-Eagles/Electrics-Eagles-Log-Parser/releases/download/v1.0.3/Electrics.Eagles.Analyser.zip
+
+
 More info : 
 https://github.com/Electrics-Eagles/Electrics-Eagles-Log-Parser
